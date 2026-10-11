@@ -19,8 +19,7 @@ mineral, con énfasis en el uranio y las tierras raras (U-REE) de la Cordillera 
 
 - Geoquímica de rocas y sedimentos: control de calidad de bases de datos públicas y diagramas petrogenéticos.
 - Prospectividad mineral: variables predictoras e integración de evidencias con aprendizaje automático.
-- Geofísica: comparación de la gravimetría de estaciones con modelos globales.
-- Geocomputación reproducible: entornos con versiones fijas, pruebas automáticas e integridad de datos.
+
 
 ## Herramientas
 
