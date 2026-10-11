@@ -1,4 +1,3 @@
-![Carlos Manuel Gutiérrez Cruzado]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carl--gutierrez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-gutierrez/)
 ![PUCP](https://img.shields.io/badge/Ingenier%C3%ADa%20Geol%C3%B3gica-PUCP-1d3557)
