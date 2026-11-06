@@ -10,14 +10,13 @@ body { margin: 0; }
 .lienzo { position: relative; width: 1600px; height: 400px; overflow: hidden; font-family: 'Open Sans', sans-serif;
           background: url(marco_perfil.png) 0 0 / 1600px 400px no-repeat; color: #fff; }
 .mono { font-family: 'IBM Plex Mono', Consolas, monospace; letter-spacing: 0.14em; }
-.lavanda { background: linear-gradient(90deg, #f4ebff, #c79dff); -webkit-background-clip: text; background-clip: text;
-           color: transparent; filter: drop-shadow(0 2px 8px rgba(10, 6, 24, 0.45)); }
+.lavanda { color: #d9c4ff; text-shadow: 0 0 22px rgba(143, 58, 255, 0.55), 0 2px 10px rgba(10, 6, 24, 0.6); }
 h1 { margin: 0; font-weight: 800; font-style: italic; font-size: 50px; line-height: 1.05; letter-spacing: -0.01em;
      text-shadow: 0 2px 18px rgba(10, 6, 24, 0.6); }
 .mapa { position: absolute; top: 40px; display: flex; flex-direction: column; gap: 8px; }
-.mapa img { width: 150px; height: 191px; display: block; border-radius: 6px; border: 1px solid #c9c9d6;
+.mapa img { width: 150px; height: 191px; display: block; border: 1px solid #3a3150;
             box-shadow: 0 6px 16px rgba(40, 20, 80, 0.18); }
-.mapa span { font-weight: 800; font-style: italic; font-size: 13px; color: #26262f; }
+.mapa span { font-weight: 800; font-style: italic; font-size: 13px; color: #2b2340; }
 .num { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%;
        background: linear-gradient(135deg, #2a56c6, #8f3aff); color: #fff; font-size: 11px; margin-right: 6px; }
 </style>
@@ -25,21 +24,21 @@ h1 { margin: 0; font-weight: 800; font-style: italic; font-size: 50px; line-heig
 <body>
 <div class="lienzo">
   <div style="position: absolute; left: 60px; top: 54px; width: 660px;">
-    <div class="mono" style="font-size: 13px; color: #c9a7ff;">GEOLOGÍA / GEOQUÍMICA / GEOCOMPUTACIÓN</div>
+    <div style="font-style: italic; font-size: 15px; color: #cdb6ff; text-shadow: 0 1px 8px rgba(10, 6, 24, 0.85);">Geología, geoquímica y geocomputación</div>
     <h1 style="margin-top: 18px;">Carlos Manuel<br><span class="lavanda">Gutiérrez Cruzado</span></h1>
     <p style="margin: 18px 0 0; width: 600px; font-style: italic; font-size: 17px; line-height: 1.5; color: #ddd7ee;
               text-shadow: 0 1px 8px rgba(10, 6, 24, 0.8);">
       Ingeniería Geológica, PUCP. Prospectividad mineral de uranio y tierras raras con datos públicos, Python y
       aprendizaje automático.</p>
   </div>
-  <div class="mapa" style="left: 860px;"><img src="relieve.png" alt=""><span><span class="num">1</span>Relieve</span></div>
-  <div class="mapa" style="left: 1036px;"><img src="favorabilidad_U.png" alt=""><span><span class="num">2</span>Favorabilidad U</span></div>
-  <div class="mapa" style="left: 1212px;"><img src="zonas.png" alt=""><span><span class="num">3</span>Zonas U + REE</span></div>
+  <div class="mapa" style="left: 860px;"><img src="relieve_violeta.png" alt=""><span>Relieve</span></div>
+  <div class="mapa" style="left: 1036px;"><img src="favorabilidad_U.png" alt=""><span>Favorabilidad del U</span></div>
+  <div class="mapa" style="left: 1212px;"><img src="zonas_violeta.png" alt=""><span>Zonas U y tierras raras</span></div>
   <div style="position: absolute; left: 1410px; top: 58px; display: flex; flex-direction: column; align-items: flex-start; gap: 22px;">
     <img src="logo_andeanx.png" alt="AndeanX" style="height: 26px;">
     <img src="logo_pucp.png" alt="PUCP" style="height: 36px;">
   </div>
-  <div class="mono" style="position: absolute; left: 860px; top: 296px; font-size: 11.5px; color: #6a4fc0;">CORDILLERA ORIENTAL / PERÚ CENTRAL</div>
+  <div style="position: absolute; left: 860px; top: 292px; font-style: italic; font-size: 13px; color: #5a5270;">Cordillera Oriental del Perú central</div>
 </div>
 </body>
 </html>
