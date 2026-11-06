@@ -14,7 +14,7 @@ el uranio y las tierras raras (U-REE) de la Cordillera Oriental del Perú centra
 
 | Proyecto | Descripción |
 |---|---|
-| [Prospectivity for "U - REE" - Peru Central](https://github.com/HeisenbergPy/Prospectivity-for-U-REE-Peru-Central) | Del dato público al blanco de exploración: validación de fuentes de gravimetría y de uranio en roca, 40 variables integradas en una grilla de 250 m y cinco algoritmos de aprendizaje automático con validación por bloques espaciales. Resultado: 73 km² prioritarios para uranio y tierras raras en Junín. [Mapa interactivo](https://heisenbergpy.github.io/Prospectivity-for-U-REE-Peru-Central/) y [cuaderno en Colab](https://colab.research.google.com/github/HeisenbergPy/Prospectivity-for-U-REE-Peru-Central/blob/main/cuadernos/GC04_modelo_prospectividad.ipynb). Trabajo Final de Geocomputación (PUCP, 2026-II). |
+| [Prospectivity for "U - REE" - Peru Central](https://github.com/HeisenbergPy/Prospectivity-for-U-REE-Peru-Central) | Validación de fuentes públicas de gravimetría y de uranio en roca, 40 variables en una grilla de 250 m y cinco modelos de aprendizaje automático validados por bloques espaciales, con 73 km² prioritarios para uranio y tierras raras en Junín. [Mapa interactivo](https://heisenbergpy.github.io/Prospectivity-for-U-REE-Peru-Central/) y [cuaderno en Colab](https://colab.research.google.com/github/HeisenbergPy/Prospectivity-for-U-REE-Peru-Central/blob/main/cuadernos/GC04_modelo_prospectividad.ipynb). Trabajo Final de Geocomputación (PUCP, 2026-II). |
 
 ## Áreas de trabajo
 
