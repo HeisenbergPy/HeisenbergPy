@@ -1,5 +1,3 @@
-![Carlos Manuel Gutiérrez Cruzado](encabezado.svg)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carl--gutierrez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-gutierrez/)
 ![PUCP](https://img.shields.io/badge/Ingenier%C3%ADa%20Geol%C3%B3gica-PUCP-26262f)
 [![Mapa interactivo](https://img.shields.io/badge/mapa-U%20%2B%20REE-8f3aff?logo=leaflet&logoColor=white)](https://heisenbergpy.github.io/Prospectivity-for-U-REE-Peru-Central/)
